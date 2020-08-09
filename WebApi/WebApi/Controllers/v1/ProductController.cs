@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Application.Features.Commands;
+﻿using Application.Features.Commands;
 using Application.Features.Queries;
 using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
 
 namespace WebApi.Controllers.v1
 {
@@ -27,6 +23,7 @@ namespace WebApi.Controllers.v1
         {
             return Ok(await _mediator.Send(command));
         }
+
         /// <summary>
         /// Gets all Products.
         /// </summary>
@@ -36,6 +33,7 @@ namespace WebApi.Controllers.v1
         {
             return Ok(await _mediator.Send(new GetAllProductsQuery()));
         }
+
         /// <summary>
         /// Gets Product Entity by Id.
         /// </summary>
@@ -46,6 +44,7 @@ namespace WebApi.Controllers.v1
         {
             return Ok(await _mediator.Send(new GetProductByIdQuery { Id = id }));
         }
+
         /// <summary>
         /// Deletes Product Entity based on Id.
         /// </summary>
@@ -56,6 +55,7 @@ namespace WebApi.Controllers.v1
         {
             return Ok(await _mediator.Send(new DeleteProductByIdCommand { Id = id }));
         }
+
         /// <summary>
         /// Updates the Product Entity based on Id.   
         /// </summary>
