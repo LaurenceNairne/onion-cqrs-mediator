@@ -1,0 +1,14 @@
+C:\Users\laure\source\repos\OnionArchitecture\OnionArchitecture\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+C:\Users\laure\source\repos\OnionArchitecture\OnionArchitecture\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\laure\source\repos\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+C:\Users\laure\source\repos\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+C:\Users\laure\source\repos\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+C:\Users\laure\source\repos\OnionArchitecture\OnionArchitecture\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\laure\source\repos\OnionArchitecture\OnionArchitecture\Persistence\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\laure\source\repos\OnionArchitecture\OnionArchitecture\Persistence\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\laure\source\repos\OnionArchitecture\OnionArchitecture\Persistence\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\laure\source\repos\OnionArchitecture\OnionArchitecture\Persistence\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\laure\source\repos\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\laure\source\repos\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
+C:\Users\laure\source\repos\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\laure\source\repos\OnionArchitecture\OnionArchitecture\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
